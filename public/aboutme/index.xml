@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Haoyang Ni</title>
-    <link>https://Shephardnihy.github.io/</link>
-    <description>Recent content on Haoyang Ni</description>
+    <title>Aboutmes on Haoyang Ni</title>
+    <link>https://Shephardnihy.github.io/aboutme/</link>
+    <description>Recent content in Aboutmes on Haoyang Ni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://Shephardnihy.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Alaska Winter 2021</title>
-      <link>https://Shephardnihy.github.io/images/alaska-2021/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://Shephardnihy.github.io/images/alaska-2021/</guid>
-      <description>&lt;p&gt;And here is the image gallery!&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Sun, 27 Aug 2023 20:34:05 -0400</lastBuildDate><atom:link href="https://Shephardnihy.github.io/aboutme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From Picometer to Lightyear</title>
       <link>https://Shephardnihy.github.io/aboutme/about/</link>
@@ -23,15 +14,6 @@
       
       <guid>https://Shephardnihy.github.io/aboutme/about/</guid>
       <description>I am Haoyang Ni, a graduate student at University of Illinois, Urbana-Champaign (UIUC) and research intern at Oak Ridge National Laboratory. My research focuses on using multi-modal scanning transmission electron microscopy, diffraction and spectroscopy to understand strongly correlated quantum phenomena. The key information I am looking into is to probe the local structures and heterogenieties of materials, their consequences and their impact on quantum state. In the meantime, I deal with large datasets by developing physics-informed analytical methods.</description>
-    </item>
-    
-    <item>
-      <title>Video integrations showcase</title>
-      <link>https://Shephardnihy.github.io/2014/08/video-integrations-showcase/</link>
-      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://Shephardnihy.github.io/2014/08/video-integrations-showcase/</guid>
-      <description>Trial Markdown file</description>
     </item>
     
   </channel>

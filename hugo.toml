@@ -97,10 +97,10 @@ canonifyurls = true
   url = "/archives"
 [[menu.main]]
   weight = 6
-  identifier = "about"
-  name = "about"
+  identifier = "aboutme"
+  name = "About"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
-  url = "/about"
+  url = "/aboutme"
 [[menu.main]]
   weight = 7
   identifier = "github"

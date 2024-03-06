@@ -1,7 +1,7 @@
 ---
 title: "From Picometer to Lightyear"
 date: 2023-08-27T20:34:05-04:00
-type: "about"
+type: "aboutme"
 categories:
 tags:
 keywords:
