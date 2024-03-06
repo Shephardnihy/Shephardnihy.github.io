@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Image Gallery on Haoyang Ni</title>
-    <link>https://example.org/categories/image-gallery/</link>
+    <link>https://Shephardnihy.github.io/categories/image-gallery/</link>
     <description>Recent content in Image Gallery on Haoyang Ni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/image-gallery/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://Shephardnihy.github.io/categories/image-gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alaska Winter 2021</title>
-      <link>https://example.org/about/alaska-2021/</link>
+      <link>https://Shephardnihy.github.io/about/alaska-2021/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/about/alaska-2021/</guid>
+      <guid>https://Shephardnihy.github.io/about/alaska-2021/</guid>
       <description>&lt;p&gt;And here is the image gallery!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Alaska Winter 2021</title>
-      <link>https://example.org/images/alaska-2021/</link>
+      <link>https://Shephardnihy.github.io/images/alaska-2021/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/images/alaska-2021/</guid>
+      <guid>https://Shephardnihy.github.io/images/alaska-2021/</guid>
       <description>&lt;p&gt;And here is the image gallery!&lt;/p&gt;</description>
     </item>
     
