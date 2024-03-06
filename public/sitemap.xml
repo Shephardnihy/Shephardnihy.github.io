@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Shephardnihy.github.io/about/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Shephardnihy.github.io/about/alaska-2021/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://Shephardnihy.github.io/images/alaska-2021/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -28,6 +22,9 @@
   </url><url>
     <loc>https://Shephardnihy.github.io/tags/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Shephardnihy.github.io/about/</loc>
+    <lastmod>2023-08-27T20:34:05-04:00</lastmod>
   </url><url>
     <loc>https://Shephardnihy.github.io/about/about/</loc>
     <lastmod>2023-08-27T20:34:05-04:00</lastmod>
