@@ -82,7 +82,7 @@ canonifyurls = true
 [[menu.main]]
   weight = 3
   identifier = "images"
-  name = "Image Gallery"
+  name = "Gallery"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
   url = "/images"
 [[menu.main]]
@@ -103,9 +103,8 @@ canonifyurls = true
   name = "about"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
   url = "/about"
-
 [[menu.main]]
-  weight = 6
+  weight = 7
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
