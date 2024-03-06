@@ -1,6 +1,7 @@
 ---
 title: "Alaska Winter 2021"
 date: 2024-03-01
+type: "images"
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/dy546o9j1/image/upload/v1693273587/Images/DSCF5636_oqw51t.jpg
 gallery:
@@ -15,8 +16,10 @@ categories:
 - Image Gallery
 tags:
 - image gallery
-type: "images"
 
+comments:       false
+showMeta:       false
+showActions:    false
 ---
 
 And here is the image gallery!

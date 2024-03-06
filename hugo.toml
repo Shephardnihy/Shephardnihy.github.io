@@ -42,9 +42,7 @@ canonifyurls = true
     endLevel = 3
     ordered = false
     startLevel = 1
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+  
 
 # ------
 # Author
@@ -175,7 +173,7 @@ canonifyurls = true
   #    large sidebar is swiped on all lower screens
   # 5: Display header bar on all screens and large sidebar is swiped on large screen
   # 6: Display header bar on all screens and medium sidebar is swiped
-  sidebarBehavior = 5
+  sidebarBehavior = 1
 
   # Customize link of author avatar in sidebar
   #  [params.sidebar.profile]
