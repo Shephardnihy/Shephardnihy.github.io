@@ -12,6 +12,10 @@ gallery:
 - https://res.cloudinary.com/dy546o9j1/image/upload/v1693273593/Images/DSCF5940_sb6wfr.jpg
 - https://res.cloudinary.com/dy546o9j1/image/upload/v1693273595/Images/DSCF5717_hextof.jpg
 - https://res.cloudinary.com/dy546o9j1/image/upload/v1693273587/Images/DSCF5727_vwkqlg.jpg
+- https://res.cloudinary.com/dy546o9j1/image/upload/v1693273587/Images/DSCF5908_lwntlh.jpg
+- https://res.cloudinary.com/dy546o9j1/image/upload/v1693273582/Images/DSCF5593_wdcvnh.jpg
+- https://res.cloudinary.com/dy546o9j1/image/upload/v1693273587/Images/DSCF5636_oqw51t.jpg
+- https://res.cloudinary.com/dy546o9j1/image/upload/v1693273592/Images/DSCF5729_nnhi9j.jpg
 categories:
 - Image Gallery
 tags:
@@ -22,5 +26,4 @@ showMeta:       false
 showActions:    false
 ---
 
-And here is the image gallery!
-<!--more-->
+I spent my 2021 christmas and new year in Alaska. Our trip was an out&back journey between Anchorage and Fairbanks, drving. Although winter Alaska were almost always dark, gloomy, snowing, sometimes the winter still smiled at us and shed some sunlight and moonlight upon us. This page holds a collection of photos I was able to take during the trip.

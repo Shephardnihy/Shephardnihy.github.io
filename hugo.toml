@@ -42,6 +42,8 @@ canonifyurls = true
     endLevel = 3
     ordered = false
     startLevel = 1
+  [markup.goldmark.renderer]
+    unsafe = true
   
 
 # ------
@@ -81,7 +83,7 @@ canonifyurls = true
   weight = 3
   identifier = "gallery"
   name = "Gallery"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-camera\" aria-hidden=\"true\"></i>"
   url = "/gallery"
 [[menu.main]]
   weight = 4
