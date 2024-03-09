@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Aug 2023 20:34:05 -0400</lastBuildDate><atom:link href="https://Shephardnihy.github.io/aboutme/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>From Picometer to Lightyear</title>
+      <title>About Me</title>
       <link>https://Shephardnihy.github.io/aboutme/about/</link>
       <pubDate>Sun, 27 Aug 2023 20:34:05 -0400</pubDate>
       
       <guid>https://Shephardnihy.github.io/aboutme/about/</guid>
-      <description>I am Haoyang Ni, a graduate student at University of Illinois, Urbana-Champaign (UIUC) and research intern at Oak Ridge National Laboratory. My research focuses on using multi-modal scanning transmission electron microscopy, diffraction and spectroscopy to understand strongly correlated quantum phenomena. The key information I am looking into is to probe the local structures and heterogenieties of materials, their consequences and their impact on quantum state. In the meantime, I deal with large datasets by developing physics-informed analytical methods.</description>
+      <description>I am Haoyang Ni, a graduate student at University of Illinois, Urbana-Champaign (UIUC) and research intern at Oak Ridge National Laboratory. My research focuses on using multi-modal scanning transmission electron microscopy, diffraction and spectroscopy to understand strongly correlated quantum phenomena. The key information I am looking into is to probe the local structures and heterogenieties of materials and their impact on quantum state. In the meantime, I deal with large datasets by developing physics-informed analytical methods.</description>
     </item>
     
   </channel>
