@@ -23,6 +23,7 @@ categories:
 - Image Gallery
 tags:
 - image gallery
+- Photography
 
 comments:       false
 showMeta:       false
