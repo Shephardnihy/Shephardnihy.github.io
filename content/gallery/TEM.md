@@ -1,6 +1,6 @@
 ---
-title: "Best of Microscopy"
-date: 2024-03-01
+title: "Colletion of Micrographs"
+date: 2024-03-17
 type: "gallery"
 thumbnailImagePosition: left
 thumbnailImage:  
