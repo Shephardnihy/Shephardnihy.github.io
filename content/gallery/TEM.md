@@ -10,6 +10,7 @@ gallery:
 - https://res.cloudinary.com/dy546o9j1/image/upload/v1710641921/Microscopy/Skyrmion_dh1bye.png "4D-STEM reconstruction of hexagonal skyrmion lattice, acquired from chiral magnet FeGe<sub>0.8</sub>Si<sub>0.2</sub>"
 - https://res.cloudinary.com/dy546o9j1/image/upload/v1710644486/Microscopy/DLACBED_Si111_ewoxgi.jpg "Digital Large Angle Convergent Beam Electron Diffraction (DLACBED) pattern of Si [111]. DLACBED pattern is formed by stitching CBED patterns acquired with different beam tilt. LACBED could be used for determination of crystal symmetry and quantitative structural factor calculation."
 - https://res.cloudinary.com/dy546o9j1/image/upload/v1710645014/Microscopy/DLACBED_Animation_sm6rxt.gif "Animation of acquisition of Digital Large Angle Convergent Beam Electron Diffraction (DLACBED) pattern of Si [111]. Each diffraction pattern at a specific beam tilt. A specific reflection is selected for each beam tilt, and stitch together digitally to form a full pattern."
+- https://res.cloudinary.com/dy546o9j1/image/upload/v1710729156/Microscopy/CrCoNi_Filtering_zm3w6s.jpg "Energy-Filtered Selected Area Electron Diffraction (EFSAED) of medium entropy alloy CrCoNi. Due to the energy filtering, the plasmon inelastic scattering are removed, making the SAED pattern sharper. The stripes between Bragg reflections indicates the chemical short-range ordering within the sample."
 categories:
 - Image Gallery
 tags:
